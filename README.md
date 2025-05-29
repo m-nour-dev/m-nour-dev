@@ -102,7 +102,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/m-nour-dev/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=m-nour-dev.m-nour-dev&"  />
 </div>
 
 ###
